@@ -67,12 +67,3 @@ O sistema foi construído utilizando **PHP puro com orientação a objetos**, re
 - Código limpo, comentado e modularizado com OOP
 
 ---
-
-### 📧 Entrega
-
-Link do repositório enviado até 15/04/2025 para:  
-**leandro.vieira@unoesc.edu.br**
-
----
-
-🧠 *"Todo grande projeto começa com uma boa estrutura."*
