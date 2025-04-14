@@ -1,7 +1,7 @@
 # Sistema de Registro de Usuários com PHP - Programação III
 
 ## Nome: Miguel Schneiders Flach  
-## Turma: Ciência da Computação - UNOESC 5a Fase
+## Turma: 5a Fase - Ciência da Computação - UNOESC
 ## Professor: Leandro Otavio Cordova Vieira  
 
 ---
