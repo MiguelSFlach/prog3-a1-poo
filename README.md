@@ -1,6 +1,6 @@
 # Sistema de Registro de Usuários com PHP - Programação III
 
-## Nome: João da Silva  
+## Nome: Miguel Schneiders Flach 
 ## Turma: Ciência da Computação - UNOESC  
 ## Professor: Leandro Otavio Cordova Vieira  
 
