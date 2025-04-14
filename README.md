@@ -1,6 +1,6 @@
 # Sistema de Registro de Usuários com PHP - Programação III
 
-## Nome: Miguel Schneiders Flach 
+## Nome: Miguel Schneiders Flach  
 ## Turma: Ciência da Computação - UNOESC  
 ## Professor: Leandro Otavio Cordova Vieira  
 
@@ -22,3 +22,57 @@ O sistema foi construído utilizando **PHP puro com orientação a objetos**, re
 
 ### 🗃️ Estrutura de Diretórios
 
+```
+/classes
+  Usuario.php
+  Sessao.php
+  Autenticador.php
+
+/index.php
+/cadastro.php
+/processa_cadastro.php
+/login.php
+/processa_login.php
+/dashboard.php
+/logout.php
+```
+
+---
+
+### 🚀 Como Executar Localmente
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seuusuario/prog3-a1-poo-miguel-schneiders-flach.git
+   ```
+
+2. Inicie o servidor embutido do PHP:
+   ```bash
+   cd prog3-a1-poo-miguel-schneiders-flach
+   php -S localhost:8000
+   ```
+
+3. Acesse no navegador:
+   ```
+   http://localhost:8000
+   ```
+
+---
+
+### ✅ Diferenciais Implementados
+
+- `password_hash()` e `password_verify()` usados para proteger as senhas
+- Sessão iniciada e protegida nas rotas restritas
+- Cookies funcionais com checkbox "Lembrar e-mail"
+- Código limpo, comentado e modularizado com OOP
+
+---
+
+### 📧 Entrega
+
+Link do repositório enviado até 15/04/2025 para:  
+**leandro.vieira@unoesc.edu.br**
+
+---
+
+🧠 *"Todo grande projeto começa com uma boa estrutura."*
